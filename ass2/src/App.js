@@ -1,6 +1,7 @@
 
 import React from 'react';
 import UserProfile from './UserProfile';
+import './index.css'
 
 const App = () => {
   const user = {
